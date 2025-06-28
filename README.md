@@ -1,92 +1,75 @@
-# SmartCare
-SmartCare est une application mobile intelligente pour le suivi médical personnalisé, conçue pour aider les patients, notamment les personnes âgées et ceux atteints de maladies chroniques, à gérer leur santé au quotidien. Développée avec Java et Android Studio, elle propose des rappels de médicaments, une géolocalisation des établissements médicaux, un chatbot santé, et des conseils de premiers secours.
+# 💙 SmartCare – Votre Assistant Santé Personnel
 
-Fonctionnalités
+**SmartCare** est une application **mobile (Android)** et **web (React.js)** conçue pour offrir un **suivi médical personnalisé**. Elle s'adresse aux personnes âgées, patients chroniques ou toute personne souhaitant mieux gérer sa santé au quotidien.
 
+Grâce à des rappels de médicaments, des conseils santé, un chatbot intelligent et la géolocalisation des établissements de santé, SmartCare vise à renforcer **l’autonomie des patients** et améliorer leur bien-être.
 
+---
 
+## 📱 Fonctionnalités Clés
 
+### 🔔 Rappels de Médicaments
+- Notifications intelligentes à l’heure exacte
+- Possibilité de confirmer ou ignorer une prise
+- Historique et suivi de traitement
 
-Rappels de médicaments : Notifications personnalisées pour la prise de médicaments avec suivi de l'observance.
+### 📍 Géolocalisation Médicale
+- Carte interactive des hôpitaux, cliniques et pharmacies
+- Estimation des trajets
+- Fiches d’établissement avec horaires et coordonnées
 
+### 💬 Chatbot de Santé
+- Réponses automatiques aux questions fréquentes (symptômes, médicaments, nutrition)
+- Conseils instantanés 24h/24
 
+### 🧠 Conseils Santé & Premiers Secours
+- Articles éducatifs catégorisés (alimentation, stress, activité physique...)
+- Astuces pratiques en cas d’urgence : brûlure, chute, AVC…
+- Mode hors ligne disponible
 
-Géolocalisation : Localisation des hôpitaux, cliniques et pharmacies à proximité avec itinéraires.
+---
 
+## 🌐 Plateformes
 
+- **📱 Android** (développée sous Android Studio en Java)
+- **💻 Web App** (interface simplifiée et réactive)
 
-Chatbot santé : Réponses aux questions sur les symptômes, médicaments et premiers secours.
+---
 
+## 🛠️ Technologies utilisées
 
+| Côté Mobile           | Côté Web             |
+|----------------------|----------------------|
+| Java (Android)       | HTML/CSS/JS          |
+| Android Studio       |React Js              |
+| Jetpack Libraries    | -                    |
+| XML pour UI          | -                    |
 
-Conseils santé : Articles éducatifs sur la nutrition, le fitness et la santé mentale.
+---
 
 
+## 🔐 Sécurité & Confidentialité
 
-Premiers secours : Fiches accessibles hors ligne pour les urgences (ex. : CPR, brûlures).
+- Données médicales sécurisées en local
+- Respect des normes de confidentialité
+- Accès utilisateur protégé par authentification
 
+---
 
+## 🚀 Fonctionnalités futures
 
-Mode hors ligne : Consultation des rappels et fiches sans connexion Internet.
+- Intégration d'objets connectés (tensiomètre, glucomètre…)
+- Export de l’historique en PDF
+- Notifications intelligentes post-consultation
+- Connexion avec un professionnel de santé
 
-Perspectives
+---
 
-Utilisation
+## 👩‍💻 Auteur
 
+- **Rim EL ABBASSI**
 
 
 
 
-Connexion : S'inscrire ou se connecter via l'interface d'accueil.
 
-
-
-Configuration : Ajouter un profil médical (traitements, pathologies).
-
-
-
-Navigation : Accéder aux rappels, géolocalisation, conseils santé ou chatbot via le menu principal.
-
-Exemple : Ajouter un rappel :
-
-
-
-
-
-Aller à "My Medications" > Cliquer sur "+" > Saisir : Paracétamol, 500 mg, Matin/Soir, 08:00/20:00 > Sauvegarder.
-
-Technologies
-
-
-
-
-
-Langage : Java
-
-
-
-IDE : Android Studio
-
-
-
-UI : XML, Jetpack Libraries (Navigation, LiveData, ViewModel)
-
-
-
-APIs : Google Maps, données médicales validées
-
-
-
-Base de données : SQLite
-
-
-
-Modélisation : UML (cas d'utilisation, classes, séquence)
-
-
-
-Intégration avec objets connectés (tensiomètres, glucomètres).
-
-
-
-Partage sécurisé des données avec des professionnels de santé.
