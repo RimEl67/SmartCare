@@ -76,7 +76,7 @@ Grâce à des rappels de médicaments, des conseils santé, un chatbot intellige
 ![image](https://github.com/user-attachments/assets/eb05a1e8-4082-434d-ab93-de5ff7fd7aba)
 ![image](https://github.com/user-attachments/assets/59731e64-d6c1-4062-8c53-6e59c257065b)
 ![image](https://github.com/user-attachments/assets/dfa9bcfe-9f8e-412a-9add-3d38111cfc84)
-![image](https://github.com/user-attachments/assets/5e594780-5059-4d63-b2af-3620a77cf921)
+![image](https://github.com/user-attachments/assets/a4bdc0fb-dc8a-401c-a1dc-74a1028cc6fc)
 ![image](https://github.com/user-attachments/assets/46de655d-d2a1-4bfc-a363-d86a0a7ecab9)
 ## Chatbot
 ![image](https://github.com/user-attachments/assets/2c248bd2-7f24-4a69-84a0-99dc6ba0bda2)
