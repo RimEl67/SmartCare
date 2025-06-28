@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Convertisseur de Base</string>
+    <string-array name="bases">
+        <item>Binaire</item>
+        <item>Octal</item>
+        <item>Décimal</item>
+        <item>Hexadécimal</item>
+    </string-array>
+
+</resources>

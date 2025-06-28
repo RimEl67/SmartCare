@@ -1,0 +1,43 @@
+Health Topics:
+"I have a headache that won't go away, what should I do?"
+"How can I improve my sleep quality?"
+"What are some quick stress relief techniques?"
+"Can you recommend a good exercise routine for beginners?"
+"What foods should I eat for better heart health?"
+"How can I manage my allergies during spring?"
+"What are the symptoms of dehydration?"
+"How can I tell if I have a cold or the flu?"
+"What should I keep in a home first aid kit?"
+"How can I manage lower back pain?"
+
+
+Mental Health Topics:
+"What are some ways to reduce anxiety naturally?"
+"How can I improve my mental wellbeing?"
+"What should I do if I'm feeling depressed?"
+"How can I help a friend who seems depressed?"
+"What are signs of burnout and how can I prevent it?"
+
+
+Lifestyle Topics:
+"How can I maintain a work-life balance?"
+"What are some healthy breakfast ideas?"
+"How can I start a meditation practice?"
+"What are some good stretches for office workers?"
+"How can I improve my posture?"
+
+
+Beyond Healthcare:
+"Can you tell me a joke to brighten my day?"
+"What are some health benefits of having a hobby?"
+"How can I reduce screen time without feeling disconnected?"
+"What should I know about staying healthy while traveling?"
+"How can financial stress affect my health?"
+
+
+App-Specific Questions:
+"How do I set up a medicine reminder in this app?"
+"Can you help me find the nearest hospital?"
+"Where can I find first aid information in the app?"
+"How do I save an emergency contact in the app?"
+"Can you show me how to use the health tips feature?"

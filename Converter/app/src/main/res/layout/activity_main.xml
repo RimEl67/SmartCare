@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Champ de saisie de la valeur -->
+    <EditText
+        android:id="@+id/inputNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Saisir un Nombre"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        android:inputType="textVisiblePassword"
+        />
+
+    <!-- Liste déroulante : Base initiale -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Base initiale"
+        android:id="@+id/titleView"
+        android:textSize="16sp"
+        android:textColor="#000000"
+        android:layout_marginTop="10dp" />
+
+    <Spinner
+        android:id="@+id/fromBase"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/btn_dropdown"
+        android:layout_marginBottom="10dp" />
+
+    <!-- Liste déroulante : Base finale -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Base finale"
+        android:textSize="16sp"
+        android:textColor="#000000"
+        android:layout_marginTop="10dp" />
+
+    <Spinner
+        android:id="@+id/toBase"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/btn_dropdown"
+        android:layout_marginBottom="10dp" />
+
+    <!-- Bouton Convertir -->
+    <Button
+        android:id="@+id/convertButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Convertir"
+        android:layout_marginTop="20dp" />
+
+    <!-- Espace pour afficher le résultat -->
+    <TextView
+        android:id="@+id/resultView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Résultat :"
+        android:textSize="20sp" />
+
+</LinearLayout>

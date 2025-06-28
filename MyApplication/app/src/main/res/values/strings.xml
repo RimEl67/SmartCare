@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Care</string>
+    <string name="get_started">Get started now</string>
+    <string name="connect">Connect</string>
+    <string name="medicine_reminder">Medicine Reminder</string>
+    <string name="health_tips">Health Tips</string>
+    <string name="know_your_medicine">Know Your Medicine</string>
+    <string name="first_aid_tips">First Aid Tips</string>
+    <string name="nearby_hospitals">Nearby Hospitals</string>
+    <string name="add_medication">Add Medication</string>
+    <string name="medication_name">Medication Name</string>
+    <string name="medication_dosage">Dosage</string>
+    <string name="medication_form">Form</string>
+    <string name="medication_time">Time</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>

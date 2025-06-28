@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#3F8BE8</color>
+    <color name="primary_dark">#2D7DD2</color>
+    <color name="accent">#4FC3F7</color>
+    <color name="light_cyan">#E0F7FA</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#757575</color>
+    <color name="light_gray">#EEEEEE</color>
+    <color name="dark_gray">#424242</color>
+
+    <color name="med_reminder_bg">#FF6384</color>
+    <color name="health_tips_bg">#4BC0C0</color>
+    <color name="know_med_bg">#FF9F40</color>
+    <color name="first_aid_bg">#FF5252</color>
+    <color name="hospital_bg">#9C27B0</color>
+
+
+
+    <color name="light_blue">#5E9BF9</color>
+    <color name="nutrition_bg">#4CAF50</color>
+    <color name="fitness_bg">#FF5722</color>
+    <color name="mental_health_bg">#9C27B0</color>
+    <color name="sleep_bg">#3F51B5</color>
+    <color name="challenge_bg">#FF9800</color>
+
+</resources>
